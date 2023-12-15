@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Bike Rental</string>
+    <string name="btnNext">Get Start</string>
+    <!--    Sign up-->
+    <string name="contFb">Continue with Facebook</string>
+    <string name="email">Email or Phone</string>
+    <string name="cemail">Confirm Email</string>
+    <string name="pass">Password</string>
+    <string name="cpass">Confirm Password</string>
+    <string name="buttonText">Sign in</string>
+
+    <!--    sign in-->
+    <string name="signin">Log In</string>
+    <string name="title_activity_drawer">drawer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Bike Rental</string>
+    <string name="nav_header_subtitle">bikerental.uwuuu@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Bikes</string>
+    <string name="menu_slideshow">Favorites</string>
+
+</resources>
